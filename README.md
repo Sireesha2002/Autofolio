@@ -195,7 +195,7 @@ Autofolio/
 - Sumedha
 - Pranathi
 - Ila
-- Rami
+
 
 ## License
 
